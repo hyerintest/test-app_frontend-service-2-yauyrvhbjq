@@ -1,0 +1,51 @@
+// Base theme color
+// Gray
+$gray00: #000000;
+$gray01: #040405;
+$gray02: #0E1012;
+$gray03: #141619;
+$gray04: #191C1F;
+$gray05: #1C1F21;
+$gray06: #212427;
+$gray07: #2A2D31;
+$gray08: #33363B;
+$gray09: #3B4048;
+$gray10: #495057;
+$gray11: #6D767E;
+$gray12: #868E96;
+$gray13: #9BA2AA;
+$gray14: #ADB5BD;
+$gray15: #CED4DA;
+$gray16: #DADFE3;
+$gray17: #E9ECEf;
+$gray18: #F2F4F7;
+$gray19: #FFFFFF;
+
+$primary: #1678FF;
+$secondary: #282c31;
+
+:root {
+  // Gray
+  --gray00: #{$gray00};
+  --gray01: #{$gray01};
+  --gray02: #{$gray02};
+  --gray03: #{$gray03};
+  --gray04: #{$gray04};
+  --gray05: #{$gray05};
+  --gray06: #{$gray06};
+  --gray07: #{$gray07};
+  --gray08: #{$gray08};
+  --gray09: #{$gray09};
+  --gray10: #{$gray10};
+  --gray11: #{$gray11};
+  --gray12: #{$gray12};
+  --gray13: #{$gray13};
+  --gray14: #{$gray14};
+  --gray15: #{$gray15};
+  --gray16: #{$gray16};
+  --gray17: #{$gray17};
+  --gray18: #{$gray18};
+  --gray19: #{$gray19};
+  --primary: #{$primary};
+  --secondary: #{$secondary};
+}
